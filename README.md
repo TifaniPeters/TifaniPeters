@@ -1,7 +1,8 @@
 <!-- BANNER ROSA PERSONALIZADO -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=250&section=header&text=Tifani%20Maria%20Peters%20💗&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://i.pinimg.com/originals/75/59/16/755916370457b8acc9273e689ff54761.gif" width="600px"/>
 </p>
+
 
 <h1 align="center">✨ Hello World, eu sou a Tifani ✨</h1>
 
