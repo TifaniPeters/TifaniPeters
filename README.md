@@ -4,7 +4,7 @@
 </p>
 
 
-<h1 align="center">✨ Hello World, eu sou a Tifani ✨</h1>
+<h1 align="center">✨ Hello World, i am the Tifani ✨</h1>
 
 <p align="center">
 💻 Estudante de Programação | 🎮 GAMER | 🎀 Dev Girl Mode ON
