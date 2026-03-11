@@ -11,7 +11,7 @@
 </p>
 
 💻 Tecnologias
-<p align="center"> <img src="https://skillicons.dev/icons?i=cs,github,vscode" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=cs,github,vsstudio" /> </p>
 
 <p align="center"> 🌸 Thank you for visiting my profile. 🌸 ✨ Constantly evolving ✨ </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=footer"/> </p> 
 ## 💗 Sobre mim em código
