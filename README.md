@@ -19,7 +19,7 @@
 ```csharp
 class TifaniMariaPeters
 {
-    string foco = "Desenvolvimento & Games";
+    string foco = "Desenvolvimento & Contabilidade";
     string linguagemFavorita = "C# 💕";
     string personalidade = "Criativa, Persistente e Determinada";
     string objetivo = "Construir projetos incríveis e evoluir todos os dias";
