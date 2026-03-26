@@ -7,7 +7,7 @@
 <h1 align="center">✨ Hello World, i am the Tifani ✨</h1>
 
 <p align="center">
-💻 Programming Student | 🎮 GAMER | 🎀 Dev Girl Mode ON
+💻 Programming Student | 🎀 Contabilidade
 </p>
 
 💻 Tecnologias
@@ -22,7 +22,7 @@ class TifaniMariaPeters
     string foco = "Desenvolvimento & Contabilidade";
     string linguagemFavorita = "C# 💕";
     string personalidade = "Criativa, Persistente e Determinada";
-    string objetivo = "Construir projetos incríveis e evoluir todos os dias";
+    string objetivo = "Construir projetos incríveis para ajudar o ramo da contabilidade";
 
     void Status()
     {
