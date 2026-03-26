@@ -4,16 +4,16 @@
 </p>
 
 
-<h1 align="center">✨ Hello World, i am the Tifani ✨</h1>
+<h1 align="center">✨ Olá mundo, eu sou a Tifani ✨</h1>
 
 <p align="center">
-💻 Programming Student | 🎀 Contabilidade
+💻 Estudante de ADS | 🎀 Contabilidade
 </p>
 
 💻 Tecnologias
 <p align="center"> <img src="https://skillicons.dev/icons?i=cs,github,visualstudio" /> </p>
 
-<p align="center"> 🌸 Thank you for visiting my profile. 🌸 ✨ Constantly evolving ✨ </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=footer"/> </p> 
+<p align="center"> 🌸 Obrigada por visitar meu perfil 🌸 ✨ Constante evolução ✨ </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=footer"/> </p> 
 ## 💗 Sobre mim em código
 
 ```csharp
